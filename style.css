@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    color: blue;
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 20px;
+}
+
+li {
+    list-style-type: square;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
